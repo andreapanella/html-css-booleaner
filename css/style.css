@@ -1,0 +1,14 @@
+.top-banner {
+    height: 150px;
+    background-image: url(../img/pattern.png);
+    background-repeat: repeat-x;
+    background-color: #218cb6;
+}
+
+
+
+div > img {
+    width: 200px;
+    height: 100px;
+    margin-top: 50px;
+}
