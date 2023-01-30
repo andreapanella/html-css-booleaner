@@ -3,6 +3,9 @@ body {
     font-weight: 100;
 }
 
+header {
+    margin: 0;
+}
 
 
 
@@ -35,15 +38,17 @@ h1 {
 
 
 
-div.immagini-tim img{
-    width: 900px;
+.tim-img{
     height: 600px;
 }
 
-.immagini-tim {
-    margin: auto;
+.tim-img.first {
+    width: 58%;
 }
 
+.tim-img.second {
+    width: 40%;
+}
 
 table {
     width: 100%;
