@@ -1,0 +1,120 @@
+body {
+    font-family: 'Libre Baskerville', serif, Times New Roman;
+    font-weight: 600;
+    margin: 0;
+    color: black;
+}
+
+main {
+    width: 80%;
+    margin: auto;
+    font-size: 18px;
+
+}
+
+.top-banner {
+    height: 150px;
+    background-image: url(../img/pattern.png);
+    background-repeat: repeat-x;
+    background-color: #218cb6;
+}
+
+
+
+.top-banner > img {
+    width: 200px;
+    height: 100px;
+    margin-top: 50px;
+}
+
+
+h1 {
+    font-size: 50px;
+    font-weight: 800;
+    margin-bottom: 0;
+}
+
+
+
+.autorship {
+    color: rgb(1, 190, 190);
+}
+
+
+
+.tim-img{
+    height: 600px;
+}
+
+.tim-img.first {
+    width: 58%;
+}
+
+.tim-img.second {
+    width: 40%;
+}
+
+
+figcaption {
+    font-size: 14px;
+}
+
+ul {
+    padding-left: 15px;
+}
+
+
+
+table {
+    width: 100%;
+}
+
+
+th {
+    text-align: left;
+}
+
+
+td {
+    height: 3em;
+}
+
+
+.row-heading {
+    background-color: #4fc4f2;
+}
+
+
+.column-heading {
+    width: 10%;
+}
+
+
+.row-data {
+    background-color: rgba(38, 203, 240, 0.3);
+}
+
+
+.color-text-grey {
+    color: rgb(130, 130, 130);
+}
+
+
+.final-photo {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    width: 250px;
+    height: 200px;
+}
+
+
+.final-photo.first {
+    background-image: url(../img/monitor.jpg);
+}
+
+
+.final-photo.second {
+    background-image: url(../img/graph.jpg);
+}
+
