@@ -1,3 +1,10 @@
+body {
+    font-family: font-family: 'Source Serif Pro', serif, Arial;
+}
+
+
+
+
 .top-banner {
     height: 150px;
     background-image: url(../img/pattern.png);
@@ -11,6 +18,11 @@
     width: 200px;
     height: 100px;
     margin-top: 50px;
+}
+
+
+h1 {
+    font-size: 40px;
 }
 
 
