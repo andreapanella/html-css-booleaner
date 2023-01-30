@@ -18,3 +18,14 @@ div > img {
 .autorship {
     color: rgb(1, 190, 190);
 }
+
+
+
+div.immagini-tim img{
+    width: 900px;
+    height: 600px;
+}
+
+.immagini-tim {
+    margin: auto;
+}
