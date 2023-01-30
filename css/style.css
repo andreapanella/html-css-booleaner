@@ -29,3 +29,34 @@ div.immagini-tim img{
 .immagini-tim {
     margin: auto;
 }
+
+
+table {
+    width: 100%;
+}
+
+
+th {
+    text-align: left;
+}
+
+
+td {
+    height: 3em;
+}
+
+
+.row-heading {
+    background-color: #4fc4f2;
+}
+
+
+.column-heading {
+    width: 10%;
+}
+
+
+.row-data {
+    background-color: rgba(38, 203, 240, 0.3);
+}
+
